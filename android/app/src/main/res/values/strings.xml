@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ConnectNow</string>
+    <string name="title_activity_main">ConnectNow</string>
+    <string name="package_name">com.connectnow.app</string>
+    <string name="custom_url_scheme">com.connectnow.app</string>
+</resources>

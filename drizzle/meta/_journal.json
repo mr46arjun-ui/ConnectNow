@@ -1,0 +1,76 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1781284485793,
+      "tag": "0000_absurd_sleepwalker",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1781284683876,
+      "tag": "0001_mushy_la_nuit",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1781286495043,
+      "tag": "0002_fast_nightshade",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1784461715732,
+      "tag": "0003_misty_sunspot",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1784797085583,
+      "tag": "0004_talented_hammerhead",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1784862450476,
+      "tag": "0005_vengeful_jasper_sitwell",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1786000000000,
+      "tag": "0006_auth_security",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1785562004564,
+      "tag": "0007_curly_karnak",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1785564305875,
+      "tag": "0008_curved_spencer_smythe",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1786001000000,
+      "tag": "0009_group_rbac_guest_access",
+      "breakpoints": true
+    }
+  ]
+}
